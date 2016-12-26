@@ -25,7 +25,7 @@ SECRET_KEY = ')hf!udcd!2b$i$n$=kyhf-1(n%sj)ml9+7=xuefep6huy2h!6m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [hottabov.pythonanywhere.com, localhost, 127.0.0.1]
+ALLOWED_HOSTS = ['hottabov.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
